@@ -1,5 +1,5 @@
 <!-- 标题 + 个人描述, emoji 取自: http://emojihomepage.com -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&random=false&width=535&lines=As+long+as+one+can+run%2C+whether+it's+code+or+a+person." alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&random=false&width=810&lines=As+long+as+one+can+run%2C+whether+it's+code+or+a+person.)](https://git.io/typing-svg)
 <p align="center">
   <h1 height="200px" align="center">
  Hi <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm gemdeng
