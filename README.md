@@ -49,13 +49,16 @@
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="left">
       <div><b><em><spam>Statistics</spam></em></b></div>
       <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
     </td>
-    <td align="left">
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=gemdeng&hide_border=true&show_icons=true&theme=dark&bg_color=00000000"/>
+    </td>
+     <td align="right">
+       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemdeng&hide=Tex,C"/>
     </td>
   </tr>
 </table>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemdeng&hide=Tex,C"/>
+
