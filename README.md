@@ -57,7 +57,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=gemdeng&hide_border=true&show_icons=true&theme=dark&bg_color=00000000"/>
     </td>
      <td align="right">
-       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemdeng&hide=Tex,C"/>
+       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemdeng&hide=Tex,C&hide_border=true"/>
     </td>
   </tr>
 </table>
