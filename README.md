@@ -18,9 +18,11 @@
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/-Less-bf608e?style=flat&logo=less&logoColor=white">
   <img src="https://img.shields.io/badge/-Sass-b37feb?style=flat&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/-Tailwind CSS-10d3cf?style=flat&logo=Tailwind CSS&logoColor=white">
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/-Tailwind CSS-10d3cf?style=flat&logo=Tailwind CSS&logoColor=white">
+  <img src="https://img.shields.io/badge/-VitePress-7e82fa?style=flat&logo=vitepress&logoColor=white">
+  <img src="https://img.shields.io/badge/-VitePress-10d3cf?style=flat&logo=VitePress&logoColor=white">
   <img src="https://img.shields.io/badge/-Vue3-237804?style=flat&logo=Vue.js&logoColor=Black">
   <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat&logo=webpack">
   <img src="https://img.shields.io/badge/-Vite-218bea?style=flat&logo=Vite&logoColor=white">
